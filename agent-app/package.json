@@ -2,6 +2,7 @@
   "name": "agent-app",
   "homepage": ".",
   "main": "build/electron/main.js",
+  "repository": "github:CPSECapstone/Potoo",
   "version": "0.1.0",
   "private": true,
   "build": {
