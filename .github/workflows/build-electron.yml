@@ -1,9 +1,15 @@
-name: Build/release
+name: Deploy Agent App
 
-on: push
+on:
+  push:
+    branches:
+      - main
+  paths:
+    - 'agent-app/**'
 defaults:
   run:
     working-directory: agent-app
+
 jobs:
   release:
     runs-on: ${{ matrix.os }}
