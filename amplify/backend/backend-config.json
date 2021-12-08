@@ -1,9 +1,0 @@
-{
-  "function": {
-    "onVideoAdded": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    }
-  }
-}
