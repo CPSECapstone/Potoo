@@ -9,7 +9,7 @@ function AppRouter() {
             <nav>
                <ul>
                <li>
-                 <Link to="/admin">Admin Panel</Link>
+                 <Link to="/admin">Test Admin Panel</Link>
                </li>
                <li>
                  <Link to="/">Agent Panel</Link>
