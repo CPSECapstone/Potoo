@@ -1,12 +1,15 @@
+
+import sys
 from moviepy.editor import VideoFileClip, AudioFileClip, CompositeAudioClip 
 
-AUDIO_CLIP_PATH = None
-VIDEO_CLIP_PATH = None
+AUDIO_CLIP_PATH = sys.argv[1]
+VIDEO_CLIP_PATH = sys.argv[2]
+OUTPUT_FILENAME = sys.argv[3]
 
 audio = CompositeAudioClip([AudioFileClip(AUDIO_CLIP_PATH)])
 video = VideoFileClip(VIDEO_CLIP_PATH)
 
-video.set_audio(audio)
-video.write_videofile("merged.mp4")
+video.audio = audio
+video.write_videofile(OUTPUT_FILENAME)
 
 
