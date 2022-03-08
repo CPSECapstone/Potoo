@@ -14,3 +14,7 @@ This repo is a placeholder for our project which is split into two separate repo
 
 
 [Build Status](https://us-west-2.console.aws.amazon.com/amplify/home?region=us-west-2&code=10a30da85dffa58568a2#/d2w7dfyk32xgu0)
+
+
+### Technical Specification
+![Tech Spec](/tech-spec.png)
