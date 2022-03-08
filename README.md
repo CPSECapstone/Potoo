@@ -10,6 +10,7 @@ This repo is a placeholder for our project which is split into two separate repo
 
 ## Admin Console - React Web App
 [Repo](https://github.com/CPSECapstone/Potoo-Admin-Console)
+
 [Live App](https://master.d2w7dfyk32xgu0.amplifyapp.com/)
 
 
