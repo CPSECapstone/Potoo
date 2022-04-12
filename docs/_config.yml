@@ -1,5 +1,7 @@
 theme: jekyll-theme-tactile
+
 syntax_highlighter_style: colorful
+
 toc:
     enabled: true
     h_min: 1
