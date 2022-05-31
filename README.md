@@ -1,5 +1,7 @@
 # Potoo (2021 Capstone - AWS Connect 1) 
-This repo is a placeholder for our project which is split into two separate repos. We have our Agent app and Admin Console which can be found below. Our cloud infrastructure is contained in the Admin Console Repo
+This repo is a placeholder for our project which is split into two separate repos. We have our Agent app and Admin Console which can be found below. Our cloud infrastructure is contained in the Admin Console Repo.
+
+[Alpha Wiki Site](https://github.com/CPSECapstone/Potoo/wiki)
 
 
 ## Agent App - Electron
