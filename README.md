@@ -19,3 +19,8 @@ This repo is a placeholder for our project which is split into two separate repo
 
 ### Technical Specification
 ![Tech Spec](/tech-spec.png)
+
+
+
+## Additional Links
+[Wireframes - Figma](https://www.figma.com/file/4nnkjGpcLI8HKQ0AkMpDwr/Potoo-Wireframes)
